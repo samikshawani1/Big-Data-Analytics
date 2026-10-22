@@ -1,0 +1,12 @@
+Rahul|SIES|BDA|Boy
+Priya|MIT|AIML|Girl
+Amit|SIES|BDA|Boy
+Neha|MIT|VLSI|Girl
+Rohan|SIES|AIML|Boy
+Sneha|PCCOE|BDA|Girl
+Vijay|MIT|CDC|Boy
+Anaya|PCCOE|AIML|Girl
+Karan|SIES|VLSI|Boy
+Meera|MIT|BDA|Girl
+Ishaan|PCCOE|CDC|Boy
+Diya|SIES|CDC|Girl

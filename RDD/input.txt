@@ -1,0 +1,4 @@
+Hello Spark
+Hello Python
+Big Data Analytics
+Spark is powerful
